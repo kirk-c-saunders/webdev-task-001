@@ -26,10 +26,10 @@ To view the project locally, you can either open the project files in your code 
 
 ## Tasks
 
-- [ ] Change the < h1 > and < title > tags to read: Web Development Vocabulary.
-- [ ] Create an unordered list and add each vocabulary word and definition as a list item.
-- [ ] Make each vocabulary word/phrase ~bold or~ strong.
-- [ ] Sync your fork back to GitHub and turn in.
+- [x] Change the < h1 > and < title > tags to read: Web Development Vocabulary.
+- [x] Create an unordered list and add each vocabulary word and definition as a list item.
+- [x] Make each vocabulary word/phrase ~bold or~ strong.
+- [x] Sync your fork back to GitHub and turn in.
 
 ## Submitting Your Work
 
