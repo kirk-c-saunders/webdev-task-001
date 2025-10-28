@@ -1,0 +1,21 @@
+li strong {
+  text-decoration: underline;
+  color: black;
+}
+
+li {
+    color: steelblue;
+}
+
+li::marker {
+    color: black;
+}
+
+h1 {
+    margin-left: 20px;
+    color: maroon;
+}
+
+ul{
+    width: 30vw;
+}
